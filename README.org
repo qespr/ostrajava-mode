@@ -1,0 +1,22 @@
+* OSTRAjava-mode
+
+Emacs major mode for editing .cyp files from [[https://github.com/tkohout/OSTRAJava][OSTRAjava]] programming language.
+
+The language is in czech and you have to know czech if you want to appreciate the language at all so everything else will be in
+czech here as well.
+
+** O režimu
+
+Jde o hlavní Emacs režim pro jazyk [[https://github.com/tkohout/OSTRAJava][OSTRAjava]]. Nevím kolik editorů podporuje tento jazyk ale Emacs ještě rozhodně ne a proto je zde
+tento.
+
+Není přidáno nic super pokročilého, jde pouze o barvení syntaxe a možnost kompilace přímo z editoru.
+
+Tento projekt spíš o tom naučit se lépe pracovat s Elispem než o tvorbě nejlepšího vývojového prostředí pro OSTROjavu (ale je
+možné že se jím stane!)
+
+** Stav použitelnosti
+
+- [ ] Správné barvení syntaxe
+- [ ] Možnost kompilace z editoru
+- [ ] Podpora pro ~eldoc-mode~
