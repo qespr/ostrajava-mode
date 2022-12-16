@@ -8,9 +8,9 @@ czech here as well.
 ** O režimu
 
 Jde o hlavní Emacs režim pro jazyk [[https://github.com/tkohout/OSTRAJava][OSTRAjava]]. Nevím kolik editorů podporuje tento jazyk ale Emacs ještě rozhodně ne a proto je zde
-tento.
+tohle.
 
-Není přidáno nic super pokročilého, jde pouze o barvení syntaxe a možnost kompilace přímo z editoru.
+Není (nebude) přidáno nic super pokročilého, jde pouze o barvení syntaxe a možnost kompilace přímo z editoru.
 
 Tento projekt spíš o tom naučit se lépe pracovat s Elispem než o tvorbě nejlepšího vývojového prostředí pro OSTROjavu (ale je
 možné že se jím stane!)
@@ -22,4 +22,4 @@ možné že se jím stane!)
 - [ ] Podpora pro ~eldoc-mode~
 
 Ukázka:
-[[file:res/barvy.png]]
+[[file:res/barvy2.png]]
