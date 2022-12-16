@@ -17,6 +17,9 @@ možné že se jím stane!)
 
 ** Stav použitelnosti
 
-- [ ] Správné barvení syntaxe
+- [X] Správné barvení syntaxe
 - [ ] Možnost kompilace z editoru
 - [ ] Podpora pro ~eldoc-mode~
+
+Ukázka:
+[[file:res/barvy.png]]

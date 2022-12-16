@@ -32,7 +32,6 @@ tryda Ostrava{
         Konzola.pravit(dryst1.pridaj(dryst2)) pyco
 
         Konzola.pravit(a) pyco
-
         //Mel by zavolat naDryst()
         Konzola.pravit(a) pyco
         Konzola.pravit(i) pyco
