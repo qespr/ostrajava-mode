@@ -34,6 +34,7 @@
 			   "davaj"
 			   "ci" "aj" ;;Logické operace
 			   "toz" ;;Deklarace
+			   "statyk" "natyv" ;;Nedokumentvoané ale obsažené v Konzola.cyp
 			   ))
              (x-types '("cyslo" "cyslo_desetinne" "bul" "chachar" ;Primitivy
 			"Dryst" "Bazmek" "Citac" "Konzola" "Bafr")) ;;Třídy

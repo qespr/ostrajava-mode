@@ -23,3 +23,8 @@ možné že se jím stane!)
 
 Ukázka:
 [[file:res/barvy2.png]]
+
+** Známé chyby
+
+- Odsazování moc nefunguje protože je poděděné z java-mode a chce středník na konci
+  - Netuším jak opravit, kdo ví jestli se toho někdy lidstvo dočká
